@@ -1,0 +1,47 @@
+ID,Registry_Path,Value_Name,Value_Type,Value_Data
+WN11-SO-000245,HKLM:\Software\Microsoft\Windows\Currentversion\Policies\System,FilterAdministratorToken,DWord,1
+WN11-CC-000345,HKLM:\Software\Policies\Microsoft\Windows\Winrm\Service,AllowBasic,DWord,0
+WN11-CC-000330,HKLM:\Software\Policies\Microsoft\Windows\Winrm\Client,AllowBasic,DWord,0
+WN11-CC-000350,HKLM:\Software\Policies\Microsoft\Windows\Winrm\Service,AllowUnencryptedTraffic,DWord,0
+WN11-CC-000355,HKLM:\Software\Policies\Microsoft\Windows\Winrm\Service,DisableRunAs,DWord,1
+WN11-CC-000335,HKLM:\Software\Policies\Microsoft\Windows\Winrm\Client,AllowUnencryptedTraffic,DWord,0
+
+WN11-CC-000206,HKLM:\Software\Policies\Microsoft\Windows\DeliveryOptimization,DODownloadMode,DWord,1
+
+WN11-UC-000015,HKCU:\Software\Policies\Microsoft\Windows\Currentversion\Pushnotifications,NoToastApplicationNotificationOnLockScreen,DWord,1
+WN11-SO-000080,HKLM:\Software\Microsoft\Windows\Currentversion\Policies\System,LegalNoticeCaption,String,"DoD Notice and Consent Banner"
+WN11-CC-000040,HKLM:\Software\Policies\Microsoft\Windows\Lanmanworkstation,AllowInsecureGuestAuth,DWord,0
+WN11-CC-000090,HKLM:\Software\Policies\Microsoft\Windows\Group Policy\{35378Eac-683F-11D2-A89A-00C04Fbbcfa2},NoGPOListChanges,DWord,0
+WN11-EP-000310,HKLM:\Software\Policies\Microsoft\Windows\Kernel DMA Protection,DeviceEnumerationPolicy,DWord,0
+WN11-SO-000070,HKLM:\Software\Microsoft\Windows\Currentversion\Policies\System,InactivityTimeoutSecs,DWord,900
+WN11-CC-000326,HKLM:\Software\Policies\Microsoft\Windows\Powershell\Scriptblocklogging,EnableScriptBlockLogging,DWord,1
+WN11-CC-000385,HKLM:\Software\Policies\Microsoft\WindowsInkWorkspace,AllowWindowsInkWorkspace,DWord,1
+WN11-SO-000075,HKLM:\Software\Microsoft\Windows\Currentversion\Policies\System,LegalNoticeText,String,"You are accessing a U.S. Government (USG) Information System (IS) that is provided for USG-authorized use only.
+
+By using this IS (which includes any device attached to this IS), you consent to the following conditions:
+
+-The USG routinely intercepts and monitors communications on this IS for purposes including, but not limited to, penetration testing, COMSEC monitoring, network operations and defense, personnel misconduct (PM), law enforcement (LE), and counterintelligence (CI) investigations.
+
+-At any time, the USG may inspect and seize data stored on this IS.
+
+-Communications using, or data stored on, this IS are not private, are subject to routine monitoring, interception, and search, and may be disclosed or used for any USG-authorized purpose.
+
+-This IS includes security measures (e.g., authentication and access controls) to protect USG interests--not for your personal benefit or privacy.
+
+-Notwithstanding the above, using this IS does not constitute consent to PM, LE or CI investigative searching or monitoring of the content of privileged communications, or work product, related to personal representation or services by attorneys, psychotherapists, or clergy, and their assistants. Such communications and work product are private and confidential. See User Agreement for details."
+WN11-CC-000175,HKLM:\Software\Policies\Microsoft\Windows\AppCompat,DisableInventory,DWord,1
+WN11-CC-000327,HKLM:\Software\Policies\Microsoft\Windows\Powershell\Transcription,EnableTranscripting,DWord,1
+WN11-CC-000110,HKLM:\Software\Policies\Microsoft\Windows Nt\Printers,DisableHTTPPrinting,DWord,1
+WN11-CC-000390,HKCU:\Software\Policies\Microsoft\Windows\CloudContent,DisableThirdPartySuggestions,DWord,1
+WN11-00-000125,HKCU:\Software\Policies\Microsoft\Windows\WindowsCopilot,TurnOffWindowsCopilot,DWord,1
+WN11-SO-000230,HKLM:\System\Currentcontrolset\Control\Lsa\Fipsalgorithmpolicy,Enabled,DWord,1
+WN11-CC-000007,HKLM:\Software\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\webcam,Value,String,"Deny"
+WN11-CC-000150,HKLM:\Software\Policies\Microsoft\Power\Powersettings\0E796Bdb-100D-47D6-A2D5-F7D2Daa51F51,ACSettingIndex,DWord,1
+WN11-CC-000145,HKLM:\Software\Policies\Microsoft\Power\Powersettings\0E796Bdb-100D-47D6-A2D5-F7D2Daa51F51,DCSettingIndex,DWord,1
+WN11-CC-000195,HKLM:\Software\Policies\Microsoft\Biometrics\Facialfeatures,EnhancedAntiSpoofing,DWord,1
+WN11-CC-000315,HKLM:\Software\Policies\Microsoft\Windows\Installer,AlwaysInstallElevated,DWord,0
+WN11-CC-000005,HKLM:\Software\Policies\Microsoft\Windows\Personalization,NoLockScreenCamera,DWord,1
+WN11-CC-000130,HKLM:\Software\Policies\Microsoft\Windows\System,EnumerateLocalUsers,DWord,0
+WN11-CC-000052,HKLM:\Software\Policies\Microsoft\Cryptography\Configuration\Ssl\00010002,EccCurves,MultiString,"NistP256;NistP384"
+WN11-CC-000010,HKLM:\Software\Policies\Microsoft\Windows\Personalization,NoLockScreenSlideshow,DWord,1
+WN11-CC-000044,HKLM:\Software\Policies\Microsoft\Windows\Network Connections,NC_ShowSharedAccessUI,DWord,0
