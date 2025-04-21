@@ -2,7 +2,7 @@
 Write-Host "Script execution prevented"
 exit
 
-#Requires -RunAsAdministrator
+#Requires -RunAsAdministrator test
 
 <#
 .SYNOPSIS
