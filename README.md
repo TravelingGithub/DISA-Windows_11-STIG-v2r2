@@ -1,0 +1,1 @@
+A PowerShell admin script that automates registry modifications by creating keys and setting values from a CSV file, supporting various data types including String, DWord, QWord, Binary, and MultiString.
