@@ -1,6 +1,6 @@
 # Exit immediately without executing the rest of the script
-Write-Host "Script execution prevented"
-exit
+#Write-Host "Script execution prevented"
+#exit
 
 #Requires -RunAsAdministrator test
 
